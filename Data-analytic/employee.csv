@@ -1,0 +1,9 @@
+eid,name,gender,department,age,salary,working_years,birth_place,should_pay_ot
+E011,Anda,female,developer,39,64200.0,4,Bangkok,MAY BE
+E012,Bordin,male,developer,25,48700.0,2,Phuket,YES
+E013,Chantana,female,developer,29,45500.0,3,Chonburi,YES
+E014,Donlaya,female,marketing,39,72600.0,8,Chonburi,NO
+E015,Ekkasit,male,marketing,37,80500.0,7,Suphanburi,NO
+E016,Fundee,female,support,35,56600.0,3,Phuket,MAY BE
+E017,Gitiwit,male,support,26,42400.0,2,Suphanburi,YES
+E018,Harit,male,devops,32,67700.0,5,Bangkok,MAY BE
