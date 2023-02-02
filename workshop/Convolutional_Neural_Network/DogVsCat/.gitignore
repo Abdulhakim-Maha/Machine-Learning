@@ -3,3 +3,4 @@ all_train
 test_set
 train_set*
 validation_set
+best_model.h5
