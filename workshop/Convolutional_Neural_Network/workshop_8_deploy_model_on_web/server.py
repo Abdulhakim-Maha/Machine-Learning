@@ -16,7 +16,7 @@ def run_model():
 
 	image = np.array(image_data).reshape(1, 28, 28, 1)
 	pred = model.predict(image)
-	print(pred)
+	# print(pred)
 	digit = np.argmax(pred)
 	# print(digit)
 	return str(digit)
